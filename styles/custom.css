@@ -1,0 +1,93 @@
+html {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  margin: 24px;
+}
+
+body {
+  background-color: #f9f9f9;
+}
+
+header {
+  margin-bottom: 24px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+button {
+  height: 10px;
+}
+
+a {
+  font-weight: bold;
+  color: black;
+  padding: 6px;
+}
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+div {
+  font-size: 12px;
+  margin: O;
+  padding: 6px;
+  font-weight: light;
+  width: auto;
+  display: inline-block;
+}
+
+img {
+  height: 600px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.black {
+  font-weight: bold;
+  background-color: black;
+  color: white;
+}
+
+.peach {
+  background-color: #f4e2d9;
+  color: black;
+}
+
+.mandarina {
+  background-color: #fbebcf;
+  color: black;
+}
+
+.lime {
+  background-color: #e2e7dc;
+  color: black;
+}
+
+.fume {
+  background-color: #cbdbdf;
+  color: black;
+}
+
+.sky {
+  background-color: #c7ebf7;
+  color: black;
+}
+
+.piglet {
+  background-color: #f7d7e3;
+  color: black;
+}
+
+.pig {
+  background-color: #f3c7db;
+  color: black;
+}
