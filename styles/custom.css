@@ -24,7 +24,8 @@ button {
 a {
   font-weight: bold;
   color: black;
-  padding: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
 }
 a:hover {
   background-color: black;
