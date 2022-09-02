@@ -8,10 +8,6 @@ body {
   background-color: #f9f9f9;
 }
 
-header {
-  margin-bottom: 24px;
-}
-
 h1 {
   font-size: 24px;
   font-weight: bold;
@@ -41,8 +37,21 @@ div {
   display: inline-block;
 }
 
-img {
-  height: 600px;
+.rob {
+  width: 82px;
+  height: 81px;
+  background-size: 82px 81px;
+  background-image: url("./../images/rob.png");
+  cursor: pointer;  
+}
+.rob:hover {
+  background-image: url("./../images/drob.png");
+}
+
+.header {
+  width: 100%;
+  text-align: left;
+  margin: 0;
 }
 
 .center {
@@ -62,33 +71,54 @@ img {
   background-color: #f4e2d9;
   color: black;
 }
+.peach:hover {
+  background-color: #F0C4AD;
+}
 
 .mandarina {
   background-color: #fbebcf;
   color: black;
+}
+.mandarina:hover {
+  background-color: #FAD89C;
 }
 
 .lime {
   background-color: #e2e7dc;
   color: black;
 }
+.lime:hover {
+  background-color: #D4EBB9;
+}
 
 .fume {
   background-color: #cbdbdf;
   color: black;
+}
+.fume:hover {
+  background-color: #A5D5E1;
 }
 
 .sky {
   background-color: #c7ebf7;
   color: black;
 }
+.sky:hover {
+  background-color: #A3E4F9;
+}
 
 .piglet {
   background-color: #f7d7e3;
   color: black;
 }
+.piglet:hover {
+  background-color: #F6B6CE;
+}
 
 .pig {
   background-color: #f3c7db;
   color: black;
+}
+.pig:hover {
+  background-color: #F296C0;
 }
