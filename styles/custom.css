@@ -122,3 +122,8 @@ div {
 .pig:hover {
   background-color: #F296C0;
 }
+
+#email {
+  cursor: pointer;
+  text-decoration: underline;
+}
