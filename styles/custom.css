@@ -42,10 +42,7 @@ div {
   height: 81px;
   background-size: 82px 81px;
   background-image: url("./../images/rob.png");
-  cursor: pointer;  
-}
-.rob:hover {
-  background-image: url("./../images/drob.png");
+  cursor: pointer;
 }
 
 .header {
